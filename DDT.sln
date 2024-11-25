@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35425.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDT", "DDT\DDT.csproj", "{6744BC72-6A72-42FC-BB56-ECE605EF27D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6744BC72-6A72-42FC-BB56-ECE605EF27D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6744BC72-6A72-42FC-BB56-ECE605EF27D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6744BC72-6A72-42FC-BB56-ECE605EF27D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6744BC72-6A72-42FC-BB56-ECE605EF27D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9375D4C2-22BB-4A47-A35E-193FDC068CF2}
+	EndGlobalSection
+EndGlobal
